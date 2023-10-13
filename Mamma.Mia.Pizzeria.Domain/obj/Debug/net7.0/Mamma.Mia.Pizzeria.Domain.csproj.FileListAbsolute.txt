@@ -1,0 +1,12 @@
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.deps.json
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.AssemblyInfo.cs
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\refint\Mamma.Mia.Pizzeria.Domain.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\ref\Mamma.Mia.Pizzeria.Domain.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Domain\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.csproj.AssemblyReference.cache

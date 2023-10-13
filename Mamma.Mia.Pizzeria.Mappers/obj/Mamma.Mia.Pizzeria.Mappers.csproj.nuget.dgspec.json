@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Mappers\\Mamma.Mia.Pizzeria.Mappers.csproj": {}
+  },
+  "projects": {
+    "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Domain\\Mamma.Mia.Pizzeria.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Domain\\Mamma.Mia.Pizzeria.Domain.csproj",
+        "projectName": "Mamma.Mia.Pizzeria.Domain",
+        "projectPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Domain\\Mamma.Mia.Pizzeria.Domain.csproj",
+        "packagesPath": "C:\\Users\\SlavePC\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SlavePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Dtos\\Mamma.Mia.Pizzeria.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Dtos\\Mamma.Mia.Pizzeria.Dtos.csproj",
+        "projectName": "Mamma.Mia.Pizzeria.Dtos",
+        "projectPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Dtos\\Mamma.Mia.Pizzeria.Dtos.csproj",
+        "packagesPath": "C:\\Users\\SlavePC\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SlavePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Domain\\Mamma.Mia.Pizzeria.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Domain\\Mamma.Mia.Pizzeria.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Mappers\\Mamma.Mia.Pizzeria.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Mappers\\Mamma.Mia.Pizzeria.Mappers.csproj",
+        "projectName": "Mamma.Mia.Pizzeria.Mappers",
+        "projectPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Mappers\\Mamma.Mia.Pizzeria.Mappers.csproj",
+        "packagesPath": "C:\\Users\\SlavePC\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SlavePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Domain\\Mamma.Mia.Pizzeria.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Domain\\Mamma.Mia.Pizzeria.Domain.csproj"
+              },
+              "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Dtos\\Mamma.Mia.Pizzeria.Dtos.csproj": {
+                "projectPath": "D:\\MyProjects\\Mamma-Mia-Pizzeria\\Mamma.Mia.Pizzeria\\Mamma.Mia.Pizzeria.Dtos\\Mamma.Mia.Pizzeria.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

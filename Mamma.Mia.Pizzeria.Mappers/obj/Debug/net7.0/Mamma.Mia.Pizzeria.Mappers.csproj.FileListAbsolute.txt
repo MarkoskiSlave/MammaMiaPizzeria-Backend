@@ -1,0 +1,17 @@
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.deps.json
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.AssemblyInfoInputs.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.AssemblyInfo.cs
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.csproj.CoreCompileInputs.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\refint\Mamma.Mia.Pizzeria.Mappers.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\ref\Mamma.Mia.Pizzeria.Mappers.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.csproj.AssemblyReference.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Mappers\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Mappers.csproj.CopyComplete

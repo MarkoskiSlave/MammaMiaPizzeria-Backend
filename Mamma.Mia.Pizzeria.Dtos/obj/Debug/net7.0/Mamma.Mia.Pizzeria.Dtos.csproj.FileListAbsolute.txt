@@ -1,0 +1,15 @@
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.deps.json
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.AssemblyInfoInputs.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.AssemblyInfo.cs
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.csproj.CoreCompileInputs.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\refint\Mamma.Mia.Pizzeria.Dtos.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\ref\Mamma.Mia.Pizzeria.Dtos.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.csproj.AssemblyReference.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.Dtos\obj\Debug\net7.0\Mamma.Mia.Pizzeria.Dtos.csproj.CopyComplete

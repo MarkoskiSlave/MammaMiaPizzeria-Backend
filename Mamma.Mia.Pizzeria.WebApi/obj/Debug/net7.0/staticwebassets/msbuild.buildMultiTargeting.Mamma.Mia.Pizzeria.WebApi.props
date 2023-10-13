@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mamma.Mia.Pizzeria.WebApi.props" />
+</Project>

@@ -1,0 +1,17 @@
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\bin\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.deps.json
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\bin\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\bin\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.AssemblyInfoInputs.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.AssemblyInfo.cs
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.csproj.CoreCompileInputs.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\refint\Mamma.Mia.Pizzeria.DataAccess.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\ref\Mamma.Mia.Pizzeria.DataAccess.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\bin\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.runtimeconfig.json
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.dll
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\bin\Debug\net7.0\Mamma.Mia.Pizzeria.Domain.pdb
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.csproj.AssemblyReference.cache
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.csproj.CopyComplete
+D:\MyProjects\Mamma-Mia-Pizzeria\Mamma.Mia.Pizzeria\Mamma.Mia.Pizzeria.DataAccess\obj\Debug\net7.0\Mamma.Mia.Pizzeria.DataAccess.genruntimeconfig.cache
